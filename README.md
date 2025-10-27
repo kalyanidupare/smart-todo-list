@@ -64,27 +64,6 @@ Run the Application
 
 mvn javafx:run
 
-🧮 Project Structure
-smart-todo-list/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/smarttodolist/
-│   │   │       ├── Main.java
-│   │   │       ├── Controller.java
-│   │   │       └── DatabaseHandler.java
-│   │   └── resources/
-│   │       ├── ui/
-│   │       │   └── main.fxml
-│   │       └── css/
-│   │           └── style.css
-│   └── test/
-│       └── ...
-│
-├── pom.xml
-└── README.md
-
 💡 Future Improvements
 
 🔔 Task reminders and notifications
